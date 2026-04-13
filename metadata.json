@@ -1,0 +1,5 @@
+{
+  "name": "Duck Race Arena",
+  "description": "A fun and interactive duck racing game where you can enter names and watch them compete for the finish line.",
+  "requestFramePermissions": []
+}
